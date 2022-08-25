@@ -8,8 +8,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Base {
 
-	
-	static WebDriver driver;
+		static WebDriver driver;
 	
 	public static WebDriver selectBrowserAndUrl(String browser, String url) {
 		if(browser.equalsIgnoreCase("Chrome")) {
