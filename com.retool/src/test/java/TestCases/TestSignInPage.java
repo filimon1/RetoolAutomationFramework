@@ -24,7 +24,6 @@ public class TestSignInPage {
 		String expectTitle=driver.getTitle();
 		Thread.sleep(3000);
 		Assert.assertEquals(expectTitle,"Apps | Retool");
-		
 	}
 	
 	@AfterTest
