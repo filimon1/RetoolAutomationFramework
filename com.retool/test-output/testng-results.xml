@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-24T20:01:34 EDT" name="Default suite" finished-at="2022-08-24T20:02:03 EDT" duration-ms="29286">
+  <suite started-at="2022-08-25T00:03:28 EDT" name="Default suite" finished-at="2022-08-25T00:04:01 EDT" duration-ms="32708">
     <groups>
     </groups>
-    <test started-at="2022-08-24T20:01:34 EDT" name="Default test" finished-at="2022-08-24T20:02:03 EDT" duration-ms="29286">
+    <test started-at="2022-08-25T00:03:28 EDT" name="Default test" finished-at="2022-08-25T00:04:01 EDT" duration-ms="32708">
       <class name="TestCases.TestSignInPage">
-        <test-method signature="testSignInRetool()[pri:0, instance:TestCases.TestSignInPage@5e600dd5]" started-at="2022-08-24T20:01:34 EDT" name="testSignInRetool" finished-at="2022-08-24T20:02:03 EDT" duration-ms="29082" status="PASS">
+        <test-method signature="testSignInRetool()[pri:0, instance:TestCases.TestSignInPage@5e600dd5]" started-at="2022-08-25T00:03:28 EDT" name="testSignInRetool" finished-at="2022-08-25T00:03:59 EDT" duration-ms="31037" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignInRetool -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestSignInPage@5e600dd5]" started-at="2022-08-24T20:02:03 EDT" name="tearDown" finished-at="2022-08-24T20:02:03 EDT" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestSignInPage@5e600dd5]" started-at="2022-08-25T00:04:00 EDT" name="tearDown" finished-at="2022-08-25T00:04:01 EDT" duration-ms="1566" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
